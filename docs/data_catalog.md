@@ -43,6 +43,7 @@ The Gold Layer is the business-level data representation, structured to support 
 ## 3. **gold.fact_sales**
 - **Purpose:** Stores transactional sales data for analytical purposes.
 - **Columns:**
+
 | Column Name   | Data Type |	Description						                 |
 |---------------|-----------|--------------------------------------------------------------------|
 | order_number  | VARCHAR(50) | A unique alphanumeric identifier for each sales order            |
